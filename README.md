@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&height=300&section=header&text=JunHui%20Jeong&fontSize=90&desc=DimBlessing&descAlign=70&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=300&section=header&text=JunHui%20Jeong&fontSize=90&desc=DimBlessing&descAlign=70&descAlignY=65)
 
 
 
