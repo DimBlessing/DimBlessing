@@ -7,6 +7,7 @@
 <div align="center">
 
   ![C#](https://img.shields.io/badge/C#-239128?style=flat-square&logo=CSharp&logoColor=white)
+  <img src="https://img.shields.io/badge/CSharp-239128?style=flat-square&logo=Csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <br />
